@@ -1,5 +1,5 @@
 # SQL_Project
-This SQL Project is about a Music Store.
+This SQL Project is on a Music Store Data.
 
 I downloaded this dataset from a Youtube video.
 
