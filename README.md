@@ -1,6 +1,6 @@
 # SQL_Project
-This SQL Project is on a Music Store Data.
 
-I downloaded this dataset from a Youtube video.
+•	Conducted a comprehensive analysis on a Music Store dataset sourced from a YouTube video using SQL. 
 
-I have answered about 7-8 business questions in this project.
+•	Successfully addressed and provided insightful answers to 7-8 key business questions through data exploration and SQL queries.
+
